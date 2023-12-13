@@ -1,6 +1,6 @@
 # Welcome to [pdfme](https://github.com/pdfme/pdfme)!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pdfme/pdfme/main/website/static/img/logo.svg" width="300"/>
+  <img src="https://raw.githubusercontent.com/pdfme/pdfme/main/website/static/img/logo.svg" width="200"/>
 </p>
 
 ## Our Mission
