@@ -5,7 +5,7 @@
 
 ## Our Mission
 
-At pdfme, we're dedicated to creating the most user-friendly PDF library out there! We envision a future where PDF creation is not only rapid but also cost-free. Our motivation stems from a desire to make PDF handling more accessible and efficient for everyone. For a deeper dive into why we're developing this library now, check out our [blog post](https://pdfme.com/blog/why-develop-pdf-library-now).
+At pdfme, we're dedicated to creating the most user-friendly PDF library out there! We envision a future where PDF creation is not only rapid but also cost-free. Our motivation stems from a desire to make PDF handling more accessible and efficient for everyone.
 
 ## Quick Links
 
